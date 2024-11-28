@@ -26,3 +26,4 @@ For the DEMO we create a single file:
   
 Interactive Snippets referred to specific task should be executed immediately after the corresponding preparation functions to avoid conflicts between different demos during execution.
 
+### This project was created in collaboration with Eleonora Brambatti and Daniel Colombaro, fellow students at the University of Milano-Bicocca.
